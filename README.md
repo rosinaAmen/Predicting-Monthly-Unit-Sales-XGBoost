@@ -107,14 +107,6 @@ August 2026 – December 2026
 | Linear Regression | 312.24 | 327.28 | 11.58% |
 | **XGBoost** | **57.46** | **71.13** | **2.14%** |
 
-| Model	                  MAE	        RMSE      MAPE (%)
-| -----------------   | -----------   | ------------ | --------- 
-| 	Baseline	        | 114.71	      |   143.07     | 	4.26
-| 	Linear Regression |	312.24	      |   327.28     |	11.58
-| 	Prophet           |	118.48	      |   125.79     |	4.39
-| 	**XGBoost**	      | **57.46**	    |   **71.13**	 |  **2.14**
-
-
 XGBoost produced the strongest validation performance, achieving the lowest MAE, RMSE, and MAPE among the evaluated models.
 
 ## XGBoost Model
