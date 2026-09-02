@@ -161,13 +161,24 @@ Potential improvements include:
 * Developing automated forecasting pipelines
 
 ## Project Structure
-
-***text
+```text
 predicting-monthly-unit-sales-xgboost/
 │
 ├── README.md
-├── Predicting_Monthly_Unit_Sales_XGBoost.ipynb
-├── data/
-├── sql/
+├── Predicting-Monthly-Unit-Sales-XGBoost.ipynb
+├── requirements.txt
+│
+├── Data/
+│   ├── README.md
+│   └── product_monthly_sales.csv
+│
 ├── images/
-└── requirements.txt
+│   ├── actual_vs_predicted.png
+│   ├── avg_monthly_unit_sales.png
+│   ├── feature_importance.png
+│   ├── future_importance_monthly_unit_sales.png
+│   ├── model_performance_comparison.png
+│   └── monthly_sales_trend.png
+│
+└── sql/
+    └── data_preparation..sql
