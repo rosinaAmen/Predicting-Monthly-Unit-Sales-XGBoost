@@ -1,7 +1,5 @@
 ![Predicting Monthly Unit Sales with XGBoost](images/project_banner.png)
 
-# Predicting Monthly Unit Sales with XGBoost
-
 ## Project Overview
 
 This project uses machine learning to predict monthly product unit sales using historical sales data. The objective is to develop a forecasting model that can support inventory planning, demand forecasting, and business decision-making.
