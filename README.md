@@ -1,3 +1,5 @@
+![Predicting Monthly Unit Sales with XGBoost](images/project_banner.png)
+
 # Predicting Monthly Unit Sales with XGBoost
 
 ## Project Overview

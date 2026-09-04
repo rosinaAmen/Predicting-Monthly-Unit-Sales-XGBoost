@@ -11,10 +11,6 @@ jupyter:
     language: python
     name: python3
 ---
-## Project Banner
-
-![Predicting Monthly Unit Sales with XGBoost](images/project_banner.png)
-
 
 ## Monthly Sales Trend
 
