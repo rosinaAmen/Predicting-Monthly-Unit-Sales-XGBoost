@@ -6,6 +6,12 @@ This project uses machine learning to predict monthly product unit sales using h
 
 The project compares a baseline forecasting approach, Linear Regression, and XGBoost to determine which approach provides the most accurate predictions.
 
+## Interactive Tableau Dashboard
+
+Explore the interactive dashboard on Tableau Public:
+
+[**View Interactive Tableau Dashboard →**](https://public.tableau.com/app/profile/rosina.amenebede8080/viz/Monthly_unit-sales_forecast_xgboost_twbx/Dashboard1)
+
 ## Business Problem
 
 Accurate sales forecasting helps businesses anticipate future demand, improve inventory planning, reduce stockouts and excess inventory, and support operational decision-making.
